@@ -30,7 +30,7 @@ O botão do card e o da página de produto usam o nome e o preço do mesmo regis
 
 1. Envie o conteúdo deste projeto para um novo repositório GitHub, incluindo `package-lock.json`.
 2. Importe o repositório na Vercel e selecione **Next.js** como framework.
-3. Use `npm run build` e configure o diretório de saída como `out`.
+3. Deixe as configurações de Build e Diretório de Saída (Output Directory) automáticas/padrão (não altere para `out`).
 4. Valide a loja e o pedido pelo WhatsApp com um número autorizado antes de compartilhar a versão da floricultura.
 
 As rotas são geradas no build. Alterações no catálogo e na identidade precisam de um novo deploy.
